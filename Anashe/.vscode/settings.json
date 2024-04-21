@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": C:\Users\HP\.virtualenvs\anashe--pGKB2FZ,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+}
